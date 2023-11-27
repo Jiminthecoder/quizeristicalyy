@@ -1,0 +1,8 @@
+body {
+  background-color: rgba(255, 255, 255);
+  border-radius: 15px;
+  width: 300px;
+  margin: 25px auto;
+  padding: 40px 200px 20px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
